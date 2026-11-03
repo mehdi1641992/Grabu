@@ -1,0 +1,6 @@
+{
+  "name": "Grabu - Ad-Free HD Video Downloader & Browser",
+  "description": "Minimalist Material You Android video downloader and privacy browser. Detects media across sites with one-click 4K/HD video and MP3 downloads, Brave-style ad shielding, zero-data tracking, and complete history/cache privacy control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
